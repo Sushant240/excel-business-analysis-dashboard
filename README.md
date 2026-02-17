@@ -2,6 +2,7 @@
 
 ## Overview
 This project presents an interactive Excel dashboard analyzing sales, profit, regional performance, and product trends.
+Dataset contains ~2,000 orders across multiple regions, categories, and months.
 
 ## Tools Used
 - Microsoft Excel
@@ -15,6 +16,12 @@ This project presents an interactive Excel dashboard analyzing sales, profit, re
 - Top 5 products drive major share of profit.
 - Sales peak in final months showing seasonal demand.
 
+## Skills Demonstrated
+- Business data analysis
+- KPI development
+- Dashboard design & storytelling
+- Excel-based data visualization
+- 
 ## Outcome
 The dashboard enables quick business decision-making through interactive filtering and visual analysis.
 
